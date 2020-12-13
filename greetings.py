@@ -3,3 +3,5 @@ print("Welcome Buddy")
 
 a = int(input("enter your contact number"))
 print("thanks for your number")
+
+print("Motivation : If you dream it, you can do it")
